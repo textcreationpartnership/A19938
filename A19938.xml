@@ -1,0 +1,1609 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catechisme wherin is contained the true grounds of the articles of the Christian faith, contained in the Lords prayer and the Creed, by way of question and answer betweene Protestant and Papist. Diuided into twenty Saboth exercises, for children to learne the Christian religion.</title>
+            <author>Davis, Francis, fl. 1612.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1612</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19938</idno>
+            <idno type="STC">STC 6368</idno>
+            <idno type="STC">ESTC S117500</idno>
+            <idno type="EEBO-CITATION">99852713</idno>
+            <idno type="PROQUEST">99852713</idno>
+            <idno type="VID">18053</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18053)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1233:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catechisme wherin is contained the true grounds of the articles of the Christian faith, contained in the Lords prayer and the Creed, by way of question and answer betweene Protestant and Papist. Diuided into twenty Saboth exercises, for children to learne the Christian religion.</title>
+                  <author>Davis, Francis, fl. 1612.</author>
+               </titleStmt>
+               <extent>[44] p.   </extent>
+               <publicationStmt>
+                  <publisher>By G. Eld,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1612.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Fran. Davis.</note>
+                  <note>Signatures: A-B C⁶.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:18053:1"/>
+            <pb facs="tcp:18053:1" rendition="simple:additions"/>
+            <p>A Catechiſme, wher<g ref="char:EOLhyphen"/>in is contained the true grounds of the Articles of the Chriſtian faith, con<g ref="char:EOLhyphen"/>tained in the Lords prayer and the Creed, by way of Que<g ref="char:EOLhyphen"/>ſtion and anſwer be<g ref="char:EOLhyphen"/>tweene Proteſtant and Papiſt. Diuided into twenty Saboth exerciſes, for children to learne the Chriſtian Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Imprinted at London by <hi>G. Eld.</hi> 1612.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:18053:2"/>
+            <pb facs="tcp:18053:2" rendition="simple:additions"/>
+            <head>To the VVorſhipfull and my good friend Maiſter <hi>Thomas Digges</hi> Eſquire: <hi>Francis Dauis,</hi> wiſheth health, long life, with in<g ref="char:EOLhyphen"/>creaſe of much worſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p.</head>
+            <opener>
+               <salute>Sir:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince I haue made bold alrea<g ref="char:EOLhyphen"/>dy with your worſhip in of<g ref="char:EOLhyphen"/>fering to preſent my labours vnto you, and finding your worſhip ſo kindly to receiue them, I haue heere in this ſmall volume taken ſome paines in gathering theſe few inſtructi<g ref="char:EOLhyphen"/>ons, and how ſoeuer they are, I wiſhed them well. So preſenting them to your worſhip, deſiring you to depreſſe errors with my good meaning, loth to bee tedious vnto you in a trifle, I leaue you to the protection of the Almighty: praying vnto him to ſend you much health and happineſſe. I reſt.</p>
+            <closer>
+               <signed>Your Worſhips to com<g ref="char:EOLhyphen"/>mand during life. FRAN: DAVIS.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:18053:3"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Entle Reader ſince that I haue heeretofore ſet forth ſome of my workes, and finding of your kinde receit of them, it hath ſtirred me vp into farther matters, whereof this ſmall vo<g ref="char:EOLhyphen"/>lume is one, wherein is decla<g ref="char:EOLhyphen"/>red the true ground of the Ar<g ref="char:EOLhyphen"/>ticles of the Chriſtian faith, contained in the Lords prayer and the Creede, whereunto I haue ſet out the Papiſt to aſke the Queſtion and the Proteſtant to re<g ref="char:EOLhyphen"/>ſolue it, which it doth alſo ſerue for youth to learne, and the Miniſter to aske the Queſtion, and the Child to anſwere. It is but a ſmall price for to buy this book, and the Child to learne in the weeke dayes but ſo much as I haue marked from one Sunday to another, and euery Sunday the Miniſter of euery pariſh to but call the Children afore him, euery Sunday but one howre, and to examine them vppon them few points, and no doubt but they will labour and ſtriue in the weeke dayes, to get in their mindes by root of heart to anſwere him, and no doubt but it will encreaſe in time to ſome comfort to the ſoules health. Thus Reader wiſhing you well, and deſiring you to follow theſe few Inſtructions, in order as I haue declared them, but I leaue it to thy owne conſideration, and thy better meditation, So with my praier for the ſame to the Almighty God, I end.</p>
+            <closer>
+               <signed>Your freind F. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:18053:3"/>
+            <head>The Papiſt meeting with the Pro<g ref="char:EOLhyphen"/>teſtant, and being deſirous to be conuerted or inſtructed by him in the true knowledge of God, and of his Chriſtian faith: to the which the Papiſt asketh the queſtion, and the Proteſtant reſolueth him. The firſt que<g ref="char:EOLhyphen"/>ſtion of the Papiſt, is of the Articles of the faith: and alſo this may ſerue for the in<g ref="char:EOLhyphen"/>ſtruction of youth and children.</head>
+            <div n="1" type="day">
+               <sp>
+                  <speaker>Papist.</speaker>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">W</seg>Hat is the principall and chie<g ref="char:EOLhyphen"/>feſt end of mans life?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>To know God.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What moueth thee to ſay ſo.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">Wherevnto man was created and made.</note> Becauſe hee hath created vs, and placed vs in this world, to ſet forth his glo<g ref="char:EOLhyphen"/>ry in vs, and it is good reaſon, that we em<g ref="char:EOLhyphen"/>ploy our whole life in his glory, ſéeing he is the beginning and fountaine thereof.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What is then the chiefeſt felicitie of man.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Euen the ſelfe ſame, I meane to know GOD, and to haue his glory ſhew<g ref="char:EOLhyphen"/>ed forth in vs.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <note place="margin">The grea<g ref="char:EOLhyphen"/>teſt felicity that man can atta<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> to.</note> 
+                     <hi>Why dooſt thou call this, mans chiefe felicitie.</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:18053:4"/>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Becauſe without it our condition, or eſtate were more miſerable, then the ſtate of brute beaſts.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Hereby then wee may euidently ſee, that there can no ſuch miſery come vnto man, as not to liue in the knowledge of God,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That is moſt certaine.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>But what is the true and right know<g ref="char:EOLhyphen"/>ledge of God.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">The true knowledge of God,</note> When a man ſo knoweth God, that he giue him due honor.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Which is the way to honor God a<g ref="char:EOLhyphen"/>righ?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">The right manner to worſhip God, ſtand<g ref="char:EOLunhyphen"/>eth in foure points.</note> It is to put our whole truſt and confidence in him, to ſtudy ſo ſerue him in obeying his will, to call vpon him in our neceſſities, ſéeking our ſaluation, and all good things at his hands: and finally to ac<g ref="char:EOLhyphen"/>knowledge both with hart and mouth, that he is the liuely fountaine of all goodneſſe.</p>
+               </sp>
+            </div>
+            <div n="2" type="day">
+               <head>The ſecond Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Well then, to the end that theſe former queſtions giue me full ſatisfaction, I pray de<g ref="char:EOLhyphen"/>clare more at large, which is the firſt point.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">The firſt point of honouring God.</note> To put our whole confidence in God.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>How may that be?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>When we haue an aſſured know<g ref="char:EOLhyphen"/>ledge that he is Almighty &amp; perfectly God.</p>
+               </sp>
+               <pb facs="tcp:18053:4"/>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Is that ſufficient?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Shew the reaſon?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>For there is no worthineſſe in vs, why God ſhould either ſhew his power to helpe vs, or vſe his mercifull goodneſſe to ſaue vs.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What is there then further required?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That euery one of vs be fully aſſu<g ref="char:EOLhyphen"/>red in his conſcience, that he is beloued of God, and that hee will be both his Father and Sauiour.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>How ſhall we be aſſured thereof?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">The foun<g ref="char:EOLunhyphen"/>dation of our faith.</note> By his owne word, wherein he vt<g ref="char:EOLhyphen"/>tereth vnto vs his mercy in Chriſt, and aſ<g ref="char:EOLhyphen"/>ſureth vs of his loue toward vs.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Then the very ground to haue a ſure confidence in God, is to know him in our Sauiour Chriſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yes truly.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Then briefly, what is the effect of this knowledge of God in Chriſt?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is contained in the confeſſion of the faith, vſed of all Chriſtians, which is commonly called the Créed of the Apoſtles, both becauſe it is a briefe gathering of the Articles of that faith, which hath béene al<g ref="char:EOLhyphen"/>wayes contained in Chriſts Church, and
+<pb facs="tcp:18053:5"/> alſo becauſe it was taken out of the pure doctrine of the Apoſtles.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Rehearſe the ſame.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">The Creed of the A<g ref="char:EOLhyphen"/>poſtles.</note> I beléeue in God the Father Al<g ref="char:EOLhyphen"/>mighty maker of heauen and earth, &amp;c. I beléeue in the holy Ghoſt, &amp;c.</p>
+               </sp>
+            </div>
+            <div n="3" type="day">
+               <head>The third Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>To the intent that this confeſſion may be more plainly declared: into how ma<g ref="char:EOLhyphen"/>ny parts ſhall we deuide it.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">The Chri<g ref="char:EOLhyphen"/>ſtian faith ſtandeth in 4 points.</note> Into foure principall parts.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What be they?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>The firſt concerneth God the father. The ſecond is of the ſonne Ieſus Chriſt, wherein briefly alſo the whole hiſtory of our redemption is rehearſed. The third is tou<g ref="char:EOLhyphen"/>ching the holy ghoſt. The fourth concerneth the Church, and Gods gifts to the ſame.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Seeing there is but one God, what moueth thee to make rehearſall of the father, the ſonne, and the holy Ghoſt, as if there were three?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">As concer<g ref="char:EOLhyphen"/>ning the Trinity.</note> Becauſe that in the ſubſtance or na<g ref="char:EOLhyphen"/>ture of God, we haue to conſider the father as the fountaine, beginning, and originall cauſe of all things: then ſecondly his ſonne, who is the euerlaſting wiſdoms. Thirdly, the holy Ghoſt, who is his vertue and
+<pb facs="tcp:18053:5"/> power ſpred vpon creatures, and yet neuer<g ref="char:EOLhyphen"/>theleſſe, remaineth alwayes wholy to him<g ref="char:EOLhyphen"/>ſelfe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>This is then thy meaning, that there is no inconuenience at all, to vnderſtand ſeue<g ref="char:EOLhyphen"/>rally theſe three perſons in the God-head, who not withſtanding are one and not there<g ref="char:EOLhyphen"/>by deuided.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is euen ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>I pray yee make rehearſall of the firſt part of the Creed.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">The firſt part of the Creed.</note> I beléeue in God the Father Al<g ref="char:EOLhyphen"/>mighty, maker of heauen and earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Wherefore dooſt thou call him fa<g ref="char:EOLhyphen"/>ther.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>I call him ſo, hauing reſpect to Ie<g ref="char:EOLhyphen"/>ſus Chriſt, who is the euerlaſting word, begotten of God before all worlds, who be<g ref="char:EOLhyphen"/>ing afterwards openly ſhewed vnto the world, was euidently declared to bee his ſonne. Now ſéeing God is our Sauiour Chriſts Father, it followeth neceſſarily, that he is alſo our Father.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What meaneſt thou by that, thou calleſt him almighty.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">What is meant by this word Almighty</note> I meane not onely that he hath a power, which he doth not excerciſe, but alſo that all creatures be in his hand and vnder
+<pb facs="tcp:18053:6"/> his gouernance: that he diſpoſeth all things by his prouidence: That hee ruleth the world as it pleaſeth him, and guideth all things after his owne good pleaſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <note place="margin">The power of God is not Idle.</note> 
+                     <hi>So then by thy ſaying the power of God is not Idle, but continually exerciſed, ſo that nothing is done but by him, and by his ordinance.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That is moſt true.</p>
+               </sp>
+            </div>
+            <div n="4" type="day">
+               <head>The fourth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Wherefore is that clauſe added: ma<g ref="char:EOLhyphen"/>ker of heauen and earth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Becauſe he hath made him-ſelfe knowen vnto vs by his workes, it is neceſ<g ref="char:EOLhyphen"/>ſary for vs to ſéeke him out in them. For our capacitie is not able to comprehend his diuine ſubſtance: <note place="margin">A glaſſe wherein we may ſee God.</note> therefore hee hath made the world as a glaſſe, wherein we may be<g ref="char:EOLhyphen"/>hold him in ſuch ſort, as it is expedient for vs to know him.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Dooſt thou not comprehend all crea<g ref="char:EOLhyphen"/>tures in theſe two words, Heauen &amp; Earth?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yes verily, &amp; they may be right wel contained vnder theſe two words, ſéeing that al things be either heauenly or earthly.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>And why calleſt thou God onely Crea<g ref="char:EOLhyphen"/>ture, ſeeing that to order things and to con<g ref="char:EOLhyphen"/>ſerue them alwaies in their ſtate, is a thing of
+<pb facs="tcp:18053:6"/> much more importance, then to haue for one time created them.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>By this word Creator, is not onely meant, that God once created them, hauing no further regard to them afterwards: but we ought to vnderſtand, that as the world was made of him in the beginning, euen ſo now he doth conſerue the ſame, ſo that hea<g ref="char:EOLhyphen"/>uen and earth, with the reſt of the crea<g ref="char:EOLhyphen"/>tures, could not continue in their ſtate, if his power did not preſerue them. More<g ref="char:EOLhyphen"/>ouer, ſéeing in this manner hee doth main<g ref="char:EOLhyphen"/>taine all things, holding them as it were in his hand, it muſt néeds follow, that he hath the rule and gouernance of all. Wherefore in that that hee is Creator of heauen and earth: it is he that by his goodneſſe, power, and wiſdom, doth gouerne the whole order of nature. It is hee that ſendeth raine and drought, haile, tempeſt, and fayre wea<g ref="char:EOLhyphen"/>ther, fertility and deareneſſe, dearth and plenty, health and ſickneſſe, and to bee ſhort, hee hath all things at commande<g ref="char:EOLhyphen"/>ment, to doe him ſeruice at his owne good pleaſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What ſayeſt thou as touching the diuels and wicked perſons, be they alſo ſub<g ref="char:EOLhyphen"/>iect to him?</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:18053:7"/>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Albeit that God doth not guide them with his holy ſpirit, yet he doth bridle them in ſuch ſort, that they bee not able to ſtirre or mooue without his permiſſion and appointment: yea, and moreouer hee doth compell them to execute his will, although it bee againſt their intent and purpoſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>To what purpoſe doth it ſerue thee, to know this.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">The diuell <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ath no <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ower but <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y God.</note> The knowledge hereof doth won<g ref="char:EOLhyphen"/>derfully comfort vs. For wee might thinke our ſelues in a miſerable caſe, if the diuels and the wicked, had power to do any thing, contrary to Gods will. And moreouer, we could neuer be quiet in our conſciences, if wée ſhould thinke our ſelues to be in their danger. But for ſo much as we know, that God bridleth them faſt, and chaineth them, as it were in a priſon, in ſuch wiſe that they can doe nothing but as he permitteth, we haue iuſt occaſion, not onely to be quiet in minde, but alſo to receiue moſt comfor<g ref="char:EOLhyphen"/>table ioy, ſince God hath promiſed to bee our protector and defendor.</p>
+               </sp>
+            </div>
+            <div n="5" type="day">
+               <head>The fift Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Goe too then, let vs come to the ſe<g ref="char:EOLhyphen"/>cond part of our beleefe.</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:18053:7"/>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <note place="margin">The ſecond part of the Creed.</note> And in Ieſus Chriſt his onely ſonne our Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What is the effect of this part.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is to acknowledge the ſonne of God to be our Sauiour: and to vnderſtand the meanes, whereby he hath redéemed vs from death, and purchaſed life vnto vs.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What ſignifieth this word <hi>Ieſus,</hi> by whom thou nameſt him.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is as much to ſay as Sauiour, and this name was giuen vnto him by the Angell, at Gods commandement.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What is that of more eſtimation, then if that name had beene giuen him by men.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yea, a great deale, for ſince Gods pleaſure was, that he ſhould be ſo named, he muſt néeds bee our Sauiour indéed.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What ſignifieth then this word <hi>Chriſt?</hi>
+                     </hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>This word <hi>Chriſt</hi> doth expreſſe more effectually his office, and doth giue vs to vnderſtand, that hee was annointed of his Father, King, Prieſt, and Prophet.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>How haſt thou the knowledge here<g ref="char:EOLhyphen"/>of.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>By the Scriptures, which doe teach vs, that annoynting did ſerue for
+<pb facs="tcp:18053:8"/> theſe officers, the which be attributed vnto him in many places of the ſame.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>But what manner of oyle was it wherewith he was anointed?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It was not ſuch materiall oyle as we vſe, and as did ſerue in old time, to the or<g ref="char:EOLhyphen"/>daining of Kinges, Preiſts, and Prophets but a farre more excellent oyle, euen the grace of Gods holy ſpirit, whereof the out<g ref="char:EOLhyphen"/>ward anointing in old time was but a figure.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What manner of Kingdome is that whereof thou ſpeakeſt?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is ſpirituall, and doth conſiſt in Gods word, and in his holy ſpirit, wherein is contained both righteouſnes and life euerlaſting.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>And what is this Preiſthood?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is an office and authority to pre<g ref="char:EOLhyphen"/>ſent himſelfe before God, to obtaine grace and fauour for vs and to pacify his fathers wrath, by offering an acceptable ſacrifice vnto him.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Why calleſt thou him Prophet?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Becauſe that he came downe into the world, as chéefe Ambaſſador of God his Father, to declare at large his fathers wil, and to finiſh all reuelations &amp; Propheſies.</p>
+               </sp>
+            </div>
+            <div n="6" type="day">
+               <pb facs="tcp:18053:8"/>
+               <head>The ſixt Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Commeth there any profit vnto thee by thoſe names and dignities of Chriſt?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro,</speaker>
+                  <p>Yea they altogether belong to our comfort, for Chriſt did receaue all theſe of his father, to make vs partakers thereof, whereby we might euery one receiue of his fulneſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Declare this thing more at large vn<g ref="char:EOLhyphen"/>to me.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>He receiued the holy Ghoſt in full perfection, with all the guifts of the ſame, to beſtow them on vs, and to diſtribute vn<g ref="char:EOLhyphen"/>to euery one of vs, in the meaſure &amp; quan<g ref="char:EOLhyphen"/>tity, that God knoweth to be moſt méet, and ſo by this meanes we draw out of him, as out of a fountaine, al the ſpirituall guifts that we haue.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>To what vſe doth the Kingdome of Chriſt ſerue vs?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>To ſet vs at liberty of Conſcience, to liue godly and holily, that we being inriched with his ſpirituall bleſſings, and armed with his power, may be able to ouercome the Diuell, ſinne, fleſh, and the world, which bee pernicious enemies vnto our ſoules.</p>
+               </sp>
+               <pb facs="tcp:18053:9"/>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What profit haue wee of his Preiſt<g ref="char:EOLhyphen"/>hood.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Firſt by this meanes he is our me<g ref="char:EOLhyphen"/>diator, to bring vs vnto the fauour of God his father: and againe héereby wée haue a frée entry to come in, and ſhew our ſelues boldly before God, &amp; to offer vp our ſelues, with all that belongeth vnto vs for a ſacri<g ref="char:EOLhyphen"/>fice, and in this point we are fellows after a ſort of his Preiſthood.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>The vtility of his office, in that hee is a Prophet is yet behind.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Since our Lord Ieſus hath recei<g ref="char:EOLhyphen"/>ued his office, to become the maiſter and teacher of his flock, the end of this diuinity is, to bring vs to the right knowledge of the Father, and of his truth, ſo that we might become Gods houſhould ſchollers, and of his family.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Then it is true, that a man may breif<g ref="char:EOLhyphen"/>ly gather of the words, that this name Chriſt doth include three ſundry offices, that God hath giuen vnto his ſonne, to the intent to beſtow the fruit, and profit of the ſame vpon his elect.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is true.</p>
+               </sp>
+            </div>
+            <div n="7" type="day">
+               <head>The ſeauenth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>By what reaſon calleſt thou Chriſt
+<pb facs="tcp:18053:9"/> the onely Sonne of God ſince God doth name all vs alſo his Children.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>As touching that, that we are Gods children, we are not ſo of nature, but only of his fatherly adoption, and by grace, in that God doth aceept vs for his Children: now our Lord Ieſus beeing begotten of the ſubſtance of his father, and béeing of the ſelfe ſame nature, may iuſtly bée called Gods onely ſonne, for that there is none o<g ref="char:EOLhyphen"/>ther that is ſo by nature.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>This is then thy meaning that this honour pertaineth peculiarly to him alone as to whom it belongeth of nature, the which notwithſtanding he hath by free gift of his goodneſſe communicated vnto vs, in that we are his members.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is euen ſo, and therfore in reſpect of that his communicating with vs, the ſcripture calleth Chriſt in an other place the firſt borne among many brethren.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Why calleſt thou him our Lord?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Becauſe he is appointed of the Fa<g ref="char:EOLhyphen"/>ther to haue Lordſhip ouer vs, and to rule in Heauen and earth, and to bee the head of men and Angells.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What is the meaning of that which followeth?</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:18053:10"/>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It declareth after what ſort the ſonne of God was anoynted of his father, to become our Sauiour, That is to ſay, he tooke vppon him our fleſh, and therein ful<g ref="char:EOLhyphen"/>filled all things neceſſary for our redemp<g ref="char:EOLhyphen"/>tion, according as they bée héere rehear<g ref="char:EOLhyphen"/>ſed.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What meaneſt thou by theſe two clau<g ref="char:EOLhyphen"/>ſes: conceiued by the holy Ghoſt, borne of the Virgin Mary.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That he was faſhioned in the Vir<g ref="char:EOLhyphen"/>gins woombe, taking very ſubſtance and manner of her, that he might therby become the ſéed of <hi>Dauid,</hi> as the Prophet had be<g ref="char:EOLhyphen"/>fore ſignified, and yet notwithſtanding all this was wrought by the maruelous and ſecret power of the holy Ghoſt, without the company of man.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What is it then needful that he ſhould take vpon him our very fleſh?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yea verily, for it was conuenient that mans diſobedience, againſt God ſhould be purged in the nature of man. And more<g ref="char:EOLhyphen"/>ouer if Chriſt had not beene partaker of our nature, hee had not beene a meet Me<g ref="char:EOLhyphen"/>diator to make vs at one with God his Father.</p>
+               </sp>
+               <pb facs="tcp:18053:10"/>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Then is this thy ſaying, that it be<g ref="char:EOLhyphen"/>hooueth that Chriſt ſhould become very man, to the end he might execute the office of a Sauiour, as in our perſon.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yea verily for we muſt borrow of him all that which is lacking in our ſelues: for this our default could not otherwiſe be remedied.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>By what cauſe, was this thing wrought by Gods holy ſpirit, and not rather by the company of man, according to the order of nature?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Becauſe the ſeed of man is of it ſelfe altogether corrupted with ſinne, it be<g ref="char:EOLhyphen"/>hooued that this conception of Chriſt, ſhould be wrought by the power of the ho<g ref="char:EOLhyphen"/>ly Ghoſt: whereby our Sauiour might be preſerued from all corruption of ſinne, and repleniſhed with all manner of holineſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>So then by theſe ſayings it is euidently declared vnto vs, that he which ſhould puri<g ref="char:EOLhyphen"/>fy and clenſe others from filth of ſinne, muſt be himſelfe free from al ſpots thereof, and e<g ref="char:EOLhyphen"/>uen from his mothers wombe, dedicated vn<g ref="char:EOLhyphen"/>to God in pureneſſe of nature, ſo that hee may not be guilty of that corruption, where<g ref="char:EOLhyphen"/>with the whole ſtock of man is infected.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>I meane ſo.</p>
+               </sp>
+            </div>
+            <div n="8" type="day">
+               <pb facs="tcp:18053:11"/>
+               <head>The eight Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Wherefore ſpeakeſt thou of his death immediatly after his birth, and leaueſt out the whole hiſtory of his life?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Becauſe there is nothing mentioned or ſpoken of in our Créed, but that which pecularily belongeth to the ſubſtance of our redemption.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Why is it not ſaid plainly in one word, that he dyed, without any ſpeaking of <hi>Ponti<g ref="char:EOLhyphen"/>us Pilate,</hi> by whoſe iudgement he ſuffered?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>This was not onely to make the hiſtory of Chriſts paſſion, to haue more eui<g ref="char:EOLhyphen"/>dent aſſurance, but alſo to declare vnto vs, that he was co<g ref="char:cmbAbbrStroke">̄</g>demned to death by a Iudge.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap</speaker>
+                  <p>
+                     <hi>How ſo?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>He dyed to ſuffer the paine that was due vnto vs, that we might be thereby deli<g ref="char:EOLhyphen"/>uered from the ſame. Now for ſo much as we were guilty before Gods iudgment, as wicked miſdooers, Chriſt tooke vpon him our perſons, and vouchſafed to ſhew him<g ref="char:EOLhyphen"/>ſelfe before an earthly Iudge, and to bee condemned by his mouth, that thereby wée might be declared before the iudgement ſeat of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Notwithſtanding <hi>Pilate</hi> doth pro<g ref="char:EOLhyphen"/>nounce him innocent, and ſo by that he doth
+<pb facs="tcp:18053:11"/> not condemne him worthy of death?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <hi>Pilate</hi> did both the one and the other. Firſt, hée was pronounced innocent and iuſt, by the Iudges owne mouth, to ſigni<g ref="char:EOLhyphen"/>fie that he ſuffered not for his owne deſart, but for our treſpaſſes: and yet withall the ſame Iudge did giue ſolemnly the ſentence of death againſt him: to teſtifie and ex<g ref="char:EOLhyphen"/>preſſe, that hee is our true pledge and ranſome, as hee who alſo hath taken vnto him our condemnation, to deliuer vs from the ſame.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>That is well ſaid: for if he had beene a ſinner indeed, hee had not beene meete to haue ſuffered death, for the offences of other: and neuertheleſſe, to the end we might bee cleerely quit by his condemnation, it was neceſſary that hee ſhould be counted as a<g ref="char:EOLhyphen"/>mong the wicked.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>So I meane.</p>
+               </sp>
+            </div>
+            <div n="9" type="day">
+               <head>The ninth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Where thou ſayeſt, Chriſt ſuffered on the Croſſe, was that kinde of death of more importance, then if hee had beene otherwiſe put to death?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yea verily: and as touching that matter, Saint <hi>Paul</hi> ſaith, that he was han<g ref="char:EOLhyphen"/>ged on a tree, to the intent that hee might
+<pb facs="tcp:18053:12"/> take vpon him our curſſe, and ſo diſcharge vs: for that kinde of death was accurſed of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What: is it not a great reproch and diſhonor vnto our Lord Ieſus Chriſt, to ſay that hee was accurſed, and that before God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>No not a whit: for he: through his almighty power, by taking the curſſe from vs vnto himſelfe: did in ſuch ſort make it voide and of none effect, that hee himſelfe neuertheleſſe continued ſtill ſo bleſſed, that hee was able to fill vs alſo with his bleſ<g ref="char:EOLhyphen"/>ſings.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Declare that followeth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>In ſo much as death was a puniſh<g ref="char:EOLhyphen"/>ment appointed vnto man for ſinne, there<g ref="char:EOLhyphen"/>fore our Sauiour Chriſt did ſuffer death, and by ſuffering ouer-came it. And to the intent alſo, to make it the more cer<g ref="char:EOLhyphen"/>tainely knowne vnto vs, that his death was not counterfeit, it pleaſed him alſo to bee buried after the common manner of men.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>But it appeareth not that any profit commeth to vs by this, that Chriſt hath wonne the victory of death, ſeeing that wee notwithſtanding ceaſe not to dye.</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:18053:12"/>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That doth not hinder, for the death of the faithfull is now nothing elſe but a ready paſſage to a better life.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>It followeth then neceſſary hereof, that wee ought in no wiſe to bee afraide of death, as though it were a dreadfull thing, but rather it behooueth vs willingly to walke the trace of our head and Captaine Ieſus Chriſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is euen ſo.</p>
+               </sp>
+            </div>
+            <div n="10" type="day">
+               <head>The tenth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What is the ſence of that clauſe, Hee deſcended into Hell?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That Chriſt did not onely ſuffer na<g ref="char:EOLhyphen"/>turall death, which is a ſeparation of the ſoule from the body, but alſo that his ſoule after this ſeperation, did deſcend into Hell, or the place of the damned.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>For what conſideration would hee deſcend thither?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>To ſhew the wicked that they were iuſtly condemned, becauſe they beléeued not in him: and to triumph ouer the diuell in his own tents, whither he purſued him:
+<pb facs="tcp:18053:13"/> and that his victorie, and the ſoueraintie of his humane nature might appeare ouer all; and laſtly that we might not deſcend, and abide there for euer, he deſcended, and re<g ref="char:EOLhyphen"/>turned, according as it was prophecied of him: <hi>Thou wilt not leaue my ſoule in Hell, nor ſuffer thy holy one to ſee corruption.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Was his deſcending into Hell a part of his paſſion, or humiliation?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>No, but of his victory, and exaltati<g ref="char:EOLhyphen"/>on; according to that teſtimony of <hi>S. Paul: <hi>He ſpoiled principalities, and powers, and he led captiuity captiue:</hi>
+                     </hi> This he did in Hell, euen in that place where the Diuell had moſt power: whereby both the diuell might be the more diſgraced, and Chriſt himſelfe more honoured.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What teſtimonies of Scripture haue you to prooue this?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <hi>Pſal. <hi>16.10. Thou wilt not leaue my ſoule in Hell,</hi>
+                     </hi> which is cited by <hi>Saint Peter. <hi>Act.</hi> 2.31.</hi> alſo <hi>Eph. <hi>4.9. In that he aſcended, what is it but that hee ſirſt deſcended into the loweſt parts of the earth?</hi>
+                     </hi> Alſo, <hi>Rom. <hi>10.7. ſay not in thy heart who ſhall aſcend into Heauen,</hi>
+                     </hi> this is to bring downe Chriſt;
+<pb facs="tcp:18053:13"/> 
+                     <hi>or who ſhall deſcend into the deepe,</hi> this is to bring Chriſt againe from the dead: what can be vnderſtood by the déepe, but Hell; as it is taken, <hi>Luc. <hi>8.31. And they requeſted him not to ſend them into the deepe.</hi>
+                     </hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="11" type="day">
+               <head>The eleuenth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>May wee now gather by this, what profit commeth to the faithfull by the death of Ieſus Chriſt?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yea very well: and firſt of all wee ſée that it is a ſacrifice, wherewith he hath fully ſatiſfied his Fathers iudgment in our behalfe, and thereby alſo he hath appeaſed Gods wrath, and hath brought vs into his fauour againe. Secondly, that his bloud is a waſhing of our ſoules from all maner of ſpottes. And finally, that hee hath ſo cleane wiped away our ſinnes through his death, that GOD will neuer here-after haue remembrance of them, ſo that the Obligation which was againſt vs, is now cancelled and made voyde.</p>
+               </sp>
+               <pb facs="tcp:18053:14"/>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Haue wee none other profit of his death?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yes verily, that is, if wee bee true members of Chriſt our old man is cruci<g ref="char:EOLhyphen"/>fied, and our fleſh is mortified, to the end that none euill luſts doe hereafter beare rule in vs.</p>
+               </sp>
+            </div>
+            <div n="12" type="day">
+               <head>The twelfth ſunday.</head>
+               <sp>
+                  <speaker>Papist.</speaker>
+                  <p>
+                     <hi>Expound the Article follow<g ref="char:EOLhyphen"/>ing?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Hee roſe the third day from death to life, wherein hee ſhewed, that hee had gotten the victory of death and ſinne. For through his reſurrection, hee hath ſwal<g ref="char:EOLhyphen"/>lowed vp death, hee brake a ſunder the chaines of the diuell, and finally hee de<g ref="char:EOLhyphen"/>ſtroyed all his power.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Tell mee how many wayes, this reſurrection of Chriſt doth profit vs?</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:18053:14"/>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Thrée manner of wayes. The firſt, that wee haue fully obtained to bee righte<g ref="char:EOLhyphen"/>ous thereby.</p>
+                  <p>Secondly, it is a ſure gage of our im<g ref="char:EOLhyphen"/>mortality.</p>
+                  <p>Thirdly, that if wee bee indéed truly pertakers of his reſurrection, wee riſe now in this preſent world, into a new kinde of life, whereby wee ſerue GOD onely, and lead our liues agréeable to his will.</p>
+               </sp>
+            </div>
+            <div n="13" type="day">
+               <head>The thirteenth Sunday.</head>
+               <sp>
+                  <speaker>Papiſt.</speaker>
+                  <p>
+                     <hi>Let vs now goe forward to the reſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Hee aſcended into heauen.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Went CHRIST vp into heauen in ſuch ſort, that hee is no longer in the earth?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yea, for when hee had perfor<g ref="char:EOLhyphen"/>med wholy all things that were enioyned him by the commandement of his Fa<g ref="char:EOLhyphen"/>ther, and had accompliſhed all that was neceſſary for our ſaluation, it was not néed<g ref="char:EOLhyphen"/>full hee ſhould remaine any longer in the world.</p>
+               </sp>
+               <pb facs="tcp:18053:15"/>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What profit haue we by this Aſcenſi<g ref="char:EOLhyphen"/>on:</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>We receiue double profit thereby: for ſince that our Sauiour Chriſt is entred in<g ref="char:EOLhyphen"/>to Heauen in our name: euen in like maner as he came down from thence for our ſakes he hath therby made an open entry into the ſame place for vs, giuing withal an aſſured knowledge, that the gate of heauen is now open to receiue vs, which was before ſhut through our ſinnes, The ſecond profit is that he appeared in the ſight of God the fa<g ref="char:EOLhyphen"/>ther, to make Interceſſion for vs, and to bee our Aduocate to make anſwere for vs.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>But is our ſauiour Chriſt ſo aſcended into heauen that hee is no more heere with vs?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Not ſo, for hée him-ſelfe promiſeth the contrary: that is, that he will bee preſent with vs vnto the worlds end.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Is it ment of his bodily preſence, that hee maketh promiſe ſoe to continue with vs?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>No verily for it is another matter, to ſpeake of his body, which was taken vp in<g ref="char:EOLhyphen"/>to Heauen, and of his power which is ſpred abroad throughout the whole world.</p>
+               </sp>
+               <pb facs="tcp:18053:15"/>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Declare the meaning of this ſentence he ſitteth at the right hand of God the Fa<g ref="char:EOLhyphen"/>ther.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>The vnderſtanding of that, is, that he hath receiued into his handes the gouer<g ref="char:EOLhyphen"/>nance of Heauen and Earth, whereby he is King and Ruler ouer all.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What ſignifieth this word right hand and the ſitting at the right hand?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is a ſimilitude or manner of ſpéech borrowed of earthly Princes, which are wont to place on their right ſide, ſuch as they ſubſtitute next vnder them, to rule in their name.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Then thou meaneſt nothing elſe ther<g ref="char:EOLhyphen"/>by, but that which Saint Paul ſpeaketh that he was appointed head of the Church, ſet in authority aboue all powers, and that he hath receiued a name or dignity paſſing all other.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Euen ſo it is.</p>
+               </sp>
+            </div>
+            <div n="14" type="day">
+               <head>The fourteenth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Goe foreward to the reſidue.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>From thence he will come to iudge the quick and the dead, that is to ſay, he will come downe from heauen, and ſhew him<g ref="char:EOLhyphen"/>ſelfe viſible once againe in iudgement, as he was ſeene to aſcend.</p>
+               </sp>
+               <pb facs="tcp:18053:16"/>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Seing the iudgement of God ſhall be in the end of the world, how may that bee which thou ſayeſt: ſome ſhall bee aliue, and other ſhal be dead, ſince it is a thing appoin<g ref="char:EOLhyphen"/>ted vnto all men to dye once.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Saint <hi>Paul</hi> maketh anſwere to this Queſtion himſelfe, ſaying that they which ſhall be left aliue at that time, ſhall be ſuddenly changed, to the end that their corruptible nature beeing abolliſhed, they may be clothed with incorruption.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Thy meaning is then that this change ſhall bee vnto them in ſtead of a Death, in ſo much as it ſhall abolliſh their former nature, and make them riſe againe in a new ſtate.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Truth it is.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Doe wee receiue any comfort by this that our Sauiour Chriſt ſhall come to iudge the world.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yea verily, and that great, for we are taught certainly that his comming at that time ſhall be onely for our ſaluation.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Then there is no cauſe why we ſhould be afraid of the day of iudgment, or that we ſhould tremble therefore.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>No truly for that we ſhall apeare be<g ref="char:EOLhyphen"/>fore no other Iudge but him, who is our Aduocate and hath taken vpon him to de<g ref="char:EOLhyphen"/>fend our cauſe.</p>
+               </sp>
+            </div>
+            <div n="15" type="day">
+               <pb facs="tcp:18053:16"/>
+               <head>The fifteenth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Let vs now come to the third part?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That concerneth our ſaith in the holy Ghoſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>And to what purpoſe doth it ſerue vs?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It doth vs to vnderſtand, that euen as God hath redéemed vs, and ſaued vs in Ieſus Chriſt, euen ſo it pleaſed him to make vs pertakers of his redemption, and ſaluation thorow his holy ſpirit.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>How ſo?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>In like manner, as the bloud of Chriſt is the onely purgation of our ſoules: euen ſo the holy Ghoſt muſt ſprinckle out conſciences with the ſame to make them cleane.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>This needeth a more euident declara<g ref="char:EOLhyphen"/>tion.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is to ſay, that the ſpirit of God dwelling in our hartes, doth make vs féele the vertue of our Lord Ieſus.</p>
+               </sp>
+            </div>
+            <div n="16" type="day">
+               <head>The ſixteenth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>what followeth now next.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>The fourth part of our beleefe, where it is ſaid, I beléeue that there is an holy vniuerſall Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>what is the Church vniuerſall.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is the body and fellowſhippe of them that doe beleeue, whom God
+<pb facs="tcp:18053:17"/> hath ordained and choſen vnto life euer<g ref="char:EOLhyphen"/>laſting.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Is it neceſſary that wee beleeue this Article?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yea, vnleſſe wee minde to make Chriſts death of none effect, and make all thoſe things to no purpoſe, which we haue rehearſed already, for all Chriſts dooings prooues there is a Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>This is then thy ſaying, that all which hetherto hath beene declared, doth touch the cauſe and ground of our ſaluation, in ſo much as God hath receiued vs into his fauor, by the meane of our Sauiour Chriſt, and hath eſtabliſhed this grace in vs through his holy ſpirit: but now the effect that commeth of all this, is declared vnto vs, to giue the more euident aſſurance thereof.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is euen ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What meaneſt thou by calling the Church holy?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>I call the Church holy in this ſence, becauſe that thoſe whom God hath choſen, be iuſtifieth, and reformeth vnto holyneſſe and innocency of life, to make his glory to ſhine in them: and alſo our Sauiour Chriſt hath ſanctified his Church which he redée<g ref="char:EOLhyphen"/>med: To the end it might bee glorious
+<pb facs="tcp:18053:17"/> and without ſpotte.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What meaneth this word Catholike, or vniuerſall?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It ſerueth to put vs in remembrance, that as there is but one head of the faithfull, euen ſo it behoueth them to be knit together in one body, ſo that there bee not diuers Churches, but one Church onely, diſperſed through out the whole world.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Declare as touching the communion of Saints.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That clauſe is put too, for a more plaine declaration of the vnity of the mem<g ref="char:EOLhyphen"/>bers of Chriſts Church. Moreouer, it doth vs to vnderſtand, that all the benefits that Chriſt hath giuen to his Church, belongeth to the profit and ſaluation of euery faithfull perſon, for ſo much as they haue all a com<g ref="char:EOLhyphen"/>munity together.</p>
+               </sp>
+            </div>
+            <div n="17" type="day">
+               <head>The ſeuenteenth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>But is this holyneſſe of that Church now already perfect?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>No verily, for it is in continuall battaile, ſo long as it is in this world, and laboureth alwayes vnder imperfection and infirmities, which ſhall neuer bee cleane taken away, vntill it be altogether coupled to her head Chriſt, by whom it is perfectly
+<pb facs="tcp:18053:18"/> ſanctified.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Is there none other way to know this Church but by faith?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yes verily: there is a Church which may be ſéene to the eye, for ſomuch as God hath giuen ſure tokens, by the which wee may know the ſame. But héere in this place, mention is made properly of that Church which hee hath choſen by his ſecret election to euerlaſting life, the which can<g ref="char:EOLhyphen"/>not be perfectly diſcerned by our ſences.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What is there more?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>I beléeue the remiſſion of ſinnes.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What is the proper ſignification of this word remiſſion.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That God doth fréely forgiue all the ſinnes of them which beléeue in him, in ſuch ſort, that they ſhall neuer bee called to any account, to receiue any puniſhment therefore.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>It is eaſie then to be gathered of this, that we do not merit by our owne ſatisfacti<g ref="char:EOLhyphen"/>on, that God ſhould pardon our ſinnes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yée ſay true: for our Sauiour Chriſt hath made ſatiſfaction, by ſuffering the paine due vnto the ſame: for we of our part, be not able to make any recompence to God, but of his méete liberality, wee
+<pb facs="tcp:18053:18"/> obtaine this benefit freely.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Wherefore dooſt thou make mention of remiſſion of ſinnes, immediatly after thou haſt ſpoken of the Church?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Becauſe that no man can receiue forgiueneſſe of ſinnes, vnleſſe he be ioyned in the fellowſhip of Gods people, and ſo continue in the vnity of Chriſts body, euen to the end, like a true member of his Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>By this ſaying, then without the Church, there is nothing but hell, death and damnation.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That is moſt certaine: for all ſuch as do deuide themſelues from the body of Chriſt, to breake the vnity there by ſects, are vtterly deſtitute of all hope, to enioy euerlaſting life, whiles they kéepe them<g ref="char:EOLhyphen"/>ſelues ſo deuided.</p>
+               </sp>
+            </div>
+            <div n="18" type="day">
+               <head>The eighteenth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What followeth more?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>The riſing againe of the body, and life euerlaſting.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Whereto ſerueth this Article of our beleefe.</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:18053:19"/>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>To teach that our felicity conſiſteth, not in any thing vppon earth: the which knowledge may ſerue vs for two neceſſary purpoſes, firſt it teacheth vs to paſſe through this tranſitory world as through a ſtrange Contrey, ſetting not by earthly thinges. Secondly it putteth vs in comfort that although we doe not as yet enioy the fruit of that grace, which our Lord God hath freely giuen vs in Chriſt, that yet wee ought not to diſcourage, but patiently to wait for him, vntill the time that he ſhall appeare.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What ſhall be the manner of our reſur<g ref="char:EOLhyphen"/>rection.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>All they which be dead before that time ſhall then take their owne bodies a<g ref="char:EOLhyphen"/>gaine vnto them: howbeit they ſhall be af<g ref="char:EOLhyphen"/>ter another ſort, that is, they ſhall bée no more ſubiect to death or corruption: and yet notwithſtanding they ſhall be of the ſelfe ſame nature and ſubſtance as before, and ſuch as ſhall then remaine aliue, God wil raiſe them vp maruelouſly, and ſodain<g ref="char:EOLhyphen"/>ly change their bodies in the twinkling of an eye, as we haue ſaid before.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Shall not the wicked be as well parta<g ref="char:EOLhyphen"/>kers of this reſurrection as the faithfull?</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:18053:19"/>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yes verily: but they ſhall be in con<g ref="char:EOLhyphen"/>dition farre vnlike: for the faithfull ſhall riſe againe to euerlaſting ioy and ſaluati<g ref="char:EOLhyphen"/>on, and, the other to euerlaſting death and damnation.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>wherefore is there mention made of life euerlaſting and not of hell.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Becauſe the Creed is a breefe ſum of our faith, containing in as few wordes as can be, that which belongeth peculiarly to comfort the conſcience of Gods faithfull: therefore Gods benefits, which be fréely be<g ref="char:EOLhyphen"/>ſtowed vppon his people, be rehearſed only without any mention of the wicked, who are cleane ſhut out of this Kingdome.</p>
+               </sp>
+            </div>
+            <div n="19" type="day">
+               <head>The ninteenth Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Since we haue the foundation wher<g ref="char:EOLhyphen"/>vppon our faith is builded, wee may gather heereof what is the right faith.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yea verily, that is to ſay, it is a ſure perſwaſion, and a ſtedfaſt knowledge of Gods entire loue towards vs, according as he hath plainely vttered in his Goſpell that he will be a father, and a Sauiour vn<g ref="char:EOLhyphen"/>to vs through the meanes of Ieſus Chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Doth faith ſtand in our power: or is it a free gift of God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>The ſcripture teacheth vs, that it
+<pb facs="tcp:18053:20"/> is a ſpeciall gift of the holy Ghoſt, and ve<g ref="char:EOLhyphen"/>ry experience doth confirme the ſame.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>How ſo?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>For the féebleneſſe of our wits is ſuch that we can by no meanes, attaine vnto the ſpirituall wiſedome of God the which is reuealed vnto vs by faith: and our hearts are naturally inclined to a certaine diſtruſt, or at the leaſt a vaine truſt either in our ſelues or in any other creatures: but what time Gods ſpirit hath lightened our hearts and made vs able to vnderſtand Gods will, the which thing we cannot attaine other<g ref="char:EOLhyphen"/>wiſe, then doth he arme vs alſo with a ſted<g ref="char:EOLhyphen"/>faſt confidence in his goodneſſe ſealing the promiſes of ſaluation in our hearts.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What profit commeth to vs through this faith when we haue it?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It doth iuſtify vs before God and maketh vs inheritors of euerlaſting life.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Is not a man then iuſtified through good workes if he liue holily, and in the obe<g ref="char:EOLhyphen"/>dience of Gods will?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>If any man were perfect before God he might worthily be called righteous, but for ſo much as we are all wretched ſinners in the ſight of God, we are driuen to ſéeke elſewhere, for a worthineſſe to make an<g ref="char:EOLhyphen"/>ſwere
+<pb facs="tcp:18053:20"/> for vs to Gods iudgment.</p>
+               </sp>
+            </div>
+            <div n="19" type="day">
+               <head>The 19. Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>But be all our workes ſo diſprooued that they can merrit nothing at all for vs be<g ref="char:EOLhyphen"/>fore God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Firſt all ſuch workes as wee doe of our ſelues, by our nature are vtterly corrupt whereof it followeth neceſſarily, that they cannot pleaſe God, but rather doe procure his wrath and he condemneth them euery one.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap:</speaker>
+                  <p>
+                     <hi>This is then thy ſaying, that vntill the time that God hath receiued vs to mer<g ref="char:EOLhyphen"/>cy and regenerate vs by his ſpirit, we can do nothing but ſinne: euen as an euill tree that can bring forth no fruit, but that, that is euill.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Euen ſo it is, for although our workes make a faire ſhew to mans ſight, yet they are wicked afore God, ſo long as the heart is naught vnto which he hath cheifely reſ<g ref="char:EOLhyphen"/>pect.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Heereby then thou doſt conclude, that it lieth not in our power to preuent God with our merrits, and ſo to prouoke him to loue vs, but much rather we thereby do ſtirre him to be more angry againſt vs.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Yea ſurely &amp; therfore I ſay that w<hi rend="sup">t</hi>out any
+<pb facs="tcp:18053:21"/> conſideration of our owne workes, he doth receiue vs into his fauour, and of his boun<g ref="char:EOLhyphen"/>tifull mercy, through the merites of our Sauiour Chriſt, accoumpting his righte<g ref="char:EOLhyphen"/>ouſneſſe to be ours, and for his ſake impu<g ref="char:EOLhyphen"/>teth not our faults vnto vs.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>What meaneſt thou then, that a man is iuſtified by faith?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>For as much as through beléeuing, that is, receiuing with an aſſurance of the heart, the promiſes of the Goſpell, we enter into poſſeſſion of his righteouſneſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>This is then thy meaning, that as God doth offer righteouſneſſe vnto vs by his Goſ<g ref="char:EOLhyphen"/>pell ſo the onely way to receiue it is faith.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>So I meane.</p>
+               </sp>
+            </div>
+            <div n="20" type="day">
+               <head>The twentith Sunday.</head>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Well then, after that God hath once receiued vs into his fauour, be not the works which we doe, by the vertue of his ſpirit, ac<g ref="char:EOLhyphen"/>ceptable vnto him?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Yes verily: becauſe he doth of his frée goodneſſe ſo accept them, and not be<g ref="char:EOLhyphen"/>cauſe their worthineſſe doth deſerue ſo to be eſtéemed.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>How is it, that they be not worthy of themſelues to bee accepted: ſince they pro<g ref="char:EOLhyphen"/>ceed of the holy ghoſt?</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:18053:21"/>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Becauſe there is mixed ſome filth, thorow the infirmity of the fleſh, whereby they are defiled.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>By what meanes then are they made acceptable vnto God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>By faith onely, whereby a man is aſſured in his conſcience, that God will not ſtraightly examine his workes, nor trye them by the ſharpe rigor of his Iuſtice: but that he will hide the vnperfectneſſe, and the vncleane ſpottes that be in them, with the pureneſſe of our Sauiour Chriſt, and ſo ac<g ref="char:EOLhyphen"/>compt them as perfect.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>May wee ſay then, that a Chriſtian is iuſtified by his workes, after that God hath called him, or that hee doth merrit through them Gods fauour: or the procurement of life euerlaſting.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>No verily, but rather it is ſaid, that no man liuing ſhall bee iuſtified in Gods ſight: and therefore we muſt pray he enter not into iudgement with vs.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Thou meaneſt not hereby, that the good deeds of the faithfull are vnprofitable?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>I meane nothing leſſe: for God pro<g ref="char:EOLhyphen"/>miſeth to reward them largely, both in this world and in the life to come, and yet this notwithſtanding, thoſe rewards of God are
+<pb facs="tcp:18053:22"/> not giuen for our worthy deſarts, but onely becauſe it pleaſed God of his goodneſſe, to loue vs fréely, and ſo to couer and forget our faults, that hee will neuer call them any more to remembrance.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>May we be iuſt without good works.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>That is not poſſible: for to beléeue in Chriſt, is as much to ſay, as to receiue Chriſt in ſuch ſort, as he doth giue himſelfe vnto vs. Now this is an euident thing, that Chriſt doth not onely promiſe to deliuer vs from death, and to reſtore vnto vs the fa<g ref="char:EOLhyphen"/>uour of God his Father, through the onely merites of his innocency, but alſo he promi<g ref="char:EOLhyphen"/>ſeth to make vs new Creatures by his holy ſpirit, to the end that we ſhould lead an ho<g ref="char:EOLhyphen"/>ly conuerſation in all good workes.</p>
+               </sp>
+               <sp>
+                  <speaker>Pap.</speaker>
+                  <p>
+                     <hi>Then I ſee, it is ſo farre from the office of faith, to make men deſpiſers of good deeds, that it is the very roote, whence all good workes doe ſpring.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>It is moſt certaine, and for this cauſe the doctrine of the Goſpell doth con<g ref="char:EOLhyphen"/>feſſe in theſe two points, faith and repen<g ref="char:EOLhyphen"/>tance.</p>
+               </sp>
+            </div>
+            <trailer>Heere endeth the Articles of the faith.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="advice">
+            <pb facs="tcp:18053:22"/>
+            <head>¶ Maiſter D. his Counſell to all that are his: as alſo a breefe leſſon for all eſtates.</head>
+            <p>KEepe councell. Vſe not many wordes. Tell the trueth. Bee ſlow to ſpeake. Bridle thine anger. Appeaſe debate. Hin<g ref="char:EOLhyphen"/>der no mans good name. Take heed of drinke. Remember thy end. Be mercifull. Try before thou truſt. Repoſe no confidence in a reconciled aduerſary. Sorrow not for that which cannot bee got againe. Reioyce not in thy neighbors croſſe. Striue not with thy ouermatch. Reueale not thy ſecrets to thy wife, nor to thy children: for woemen &amp; children ſay all they know. Thrée thinges vndid the Romans raigne: priuy grudge, yong heads, and priuate gaine. Beare with others as thou wouldſt haue others beare with thee. Bee not too raſh, haſty, bold, nor wiſe in thine owne conceit.</p>
+            <p>
+               <hi>Do not</hi>
+               <list>
+                  <item>
+                     <hi>ſpeake</hi>
+                  </item>
+                  <item>
+                     <hi>beleue</hi>
+                  </item>
+                  <item>
+                     <hi>doo</hi>
+                  </item>
+                  <item>
+                     <hi>ſay</hi>
+                  </item>
+               </list> 
+               <hi>all thou</hi>
+               <list>
+                  <item>
+                     <hi>knoweſt.</hi>
+                  </item>
+                  <item>
+                     <hi>heareſt.</hi>
+                  </item>
+                  <item>
+                     <hi>canſt.</hi>
+                  </item>
+                  <item>
+                     <hi>ſeest.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb facs="tcp:18053:23"/>
+            <lg>
+               <l>Behold the end ere thou begin,</l>
+               <l>Haue mind on death and feare to ſin:</l>
+               <l>For death ſhal reap that life hath ſowen,</l>
+               <l>&amp; life ſhal ſpring where death hath mowen.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Though Fortune haue ſet thee on hie,</hi>
+               </l>
+               <l>
+                  <hi>Remember yet that thou ſhalt dye.</hi>
+               </l>
+            </lg>
+            <p>Abſtinence is good for the health and wealth of the.
+<list>
+                  <item>Soule,</item>
+                  <item>Mind,</item>
+                  <item>and body.</item>
+               </list>
+            </p>
+            <lg>
+               <l>
+                  <hi>If thou flye Idleneſſe, Cupid hath no might.</hi>
+               </l>
+               <l>
+                  <hi>His bow lieth broken his fire hath no light.</hi>
+               </l>
+            </lg>
+            <p>FEARE GOD.<lb/>And keep his Commandements.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:18053:23"/>
+         </div>
+      </back>
+   </text>
+</TEI>
